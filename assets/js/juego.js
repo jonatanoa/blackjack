@@ -67,7 +67,7 @@ const miModulo = (()=>{
             for( let esp of especiales ) {
                 deck.push( esp + tipo);
             }
-        }
+        } 
 
         return _.shuffle( deck );
     }
