@@ -1,0 +1,73 @@
+commit c544acad3dcaf95b71820d1a4bbe2292b5d9ac72
+Author: jonatanparamossoftware <jonathan950904@gmail.com>
+Date:   Fri Oct 21 20:56:53 2022 -0500
+
+    Agregando un espacio el html para ensayos
+
+commit 0423fac9fe46d034367ee73f890e0514f9b99706
+Author: jonatanparamossoftware <jonathan950904@gmail.com>
+Date:   Fri Oct 21 20:34:45 2022 -0500
+
+    Restaurando archivo license
+
+commit 6f60218d3091e03dae9e6dca70fd064f8434f31b
+Merge: 7674155 686ee4a
+Author: jonatanparamossoftware <jonathan950904@gmail.com>
+Date:   Fri Oct 21 20:21:14 2022 -0500
+
+    Merge branch 'js'
+
+commit 7674155dc498067e5c7096cc7b9f8b34acd00c76
+Author: jonatanparamossoftware <jonathan950904@gmail.com>
+Date:   Fri Oct 21 20:20:16 2022 -0500
+
+    Agregando hola2 a license
+
+commit 686ee4a94bbddeb41f1ee8c3265bc5ddf280d6f2
+Author: jonatanparamossoftware <jonathan950904@gmail.com>
+Date:   Fri Oct 21 20:19:14 2022 -0500
+
+    Agregando hola a archivo license
+
+commit 6b9f6f0537c59f11515977e57ced8a5514909011
+Author: jonatanparamossoftware <jonathan950904@gmail.com>
+Date:   Fri Oct 21 19:40:53 2022 -0500
+
+    Eliminando gitIgnore
+
+commit 9bf04ca7f2bcd8a5b85a1e06dca4e2806ab0f3c7
+Merge: 4ffd223 ed61088
+Author: jonatanparamossoftware <jonathan950904@gmail.com>
+Date:   Fri Oct 21 19:29:05 2022 -0500
+
+    Merge branch 'html'
+
+commit 4ffd223543af57b0280cf8209ce0ddad921e158d
+Author: jonatanparamossoftware <jonathan950904@gmail.com>
+Date:   Fri Oct 21 19:01:52 2022 -0500
+
+    Eliminando notas
+
+commit ed610882f65cd25690cefd2fc054fe0cfb0072e0
+Author: jonatanparamossoftware <jonathan950904@gmail.com>
+Date:   Thu Oct 20 21:15:14 2022 -0500
+
+    Creando una rama con un archivo
+
+commit e5d1d5eda03fa831b82e5440dd2bac7be5182e4c
+Author: Jonatan Osorio Arcila <jonathan950904@gmail.com>
+Date:   Thu Oct 20 04:38:05 2022 +0200
+
+    Creando licencia del repositorio
+
+commit 46c281c8b6caadb839991ec41ef7f8d2f3769df3
+Author: jonatanparamossoftware <jonathan950904@gmail.com>
+Date:   Wed Oct 19 21:04:09 2022 -0500
+
+    Segundo commit
+
+commit 017fc761c62aa3a1c0591f995629022a72768c98
+Author: jonatanparamossoftware <jonathan950904@gmail.com>
+Date:   Wed Oct 19 20:56:38 2022 -0500
+
+    first commit
